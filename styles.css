@@ -1,4 +1,4 @@
- {
+{
     border: 1px dashed red;
     min-height: 10px;
 }
@@ -30,7 +30,7 @@ header .header-div , .pub{
 }
 
 .date {
-    color: grey;
+    color: #a8a8a8;
 }
 
 .feed {
@@ -53,4 +53,12 @@ img {
     width: 500px;
     height: 400px;
     object-fit: cover;
+}
+
+.hashtag {
+    color: rgb(0, 140, 255);
+}
+
+.comment {
+    font-size: small;
 }
