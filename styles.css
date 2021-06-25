@@ -1,4 +1,4 @@
-body {
+body{
     background-color: lightgrey;
     font-family: 'Assistant', sans-serif;
     color: black;
@@ -49,6 +49,12 @@ img {
 
 .hashtag {
     color: rgb(0, 140, 255);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a.hashtag:hover {
+    text-decoration: underline;
 }
 
 .comment {
